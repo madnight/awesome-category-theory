@@ -18,7 +18,7 @@ A curated list of awesome Category Theory resources.
     - [Video Lectures](#video-lectures)
 
 ## Articles
-*Relevant articles applying category theory to various fields.*
+
 #### Bayesian/Causal inference
   * [A Categorical Foundation for Bayesian probability](https://arxiv.org/abs/1205.1488)
   * [A Channel-Based Perspective on Conjugate Priors](https://arxiv.org/abs/1707.00269)
@@ -124,7 +124,7 @@ A curated list of awesome Category Theory resources.
   * [Topological Expressiveness of Neural Networks](https://run.unl.pt/bitstream/10362/129615/1/TAA0115.pdf)
 
 ## Blogs
-*Blogs on category theory.*
+
 * [Category Theory | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/category/category-theory/)
 * [The Comonad.Reader by Edward Kmett](http://comonad.com/reader/)
 * [What is category theory, anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway) by Tai-Danae Bradle
@@ -132,7 +132,7 @@ A curated list of awesome Category Theory resources.
 * [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/) by Mark Seemann
 
 ## Books
-*Books on category theory.*
+
 * [Category Theory](https://amzn.to/2HAe42N) - by Steve Awodey
 * [Categories for the Working Mathematician](https://www.amazon.de/-/en/Saunders-Mac-Lane/dp/1441931236) - by Saunders Mac Lane, founder of category theory together with Samuel Eilenberg
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - by [Bartosz Milewski][milewski]
@@ -148,14 +148,13 @@ A curated list of awesome Category Theory resources.
 * [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
 
 ## Companies
-*Companies applying category theory.*
 
-### Heavily using ACT
+#### Heavily using ACT
 
 * [Conexus](https://conexus.com/) - A start-up developing [CQL](https://www.categoricaldata.net/), a generalization of SQL to data migration and integration that contains an automated theorem prover to rule out most semantic errors at compile time.
 * [Statebox](https://statebox.org/) - building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination
 
-### Interested in ACT research
+#### Interested in ACT research
 
 * [IOHK](https://iohk.io/) - builds cryptocurrencies and blockchain solutions, based on peer reviewed papers; formally verified specifications in [Agda](https://github.com/input-output-hk/plutus/tree/master/metatheory), [Coq](https://github.com/input-output-hk?language=coq) and [k-framework](https://testnet.iohkdev.io/iele/about/formal-verification/)
 * [RChain](https://github.com/rchain/) - blockchain ecosystem it's foundational language - Rholang is implementation of [rho-calculus](http://rho.loria.fr/index.html) wih deep roots in [higher category theory](https://arxiv.org/abs/1504.04311) and [enriched Lawvere theories](https://arxiv.org/abs/1704.03080)
@@ -167,7 +166,6 @@ A curated list of awesome Category Theory resources.
 * [SYCO](http://events.cs.bham.ac.uk/syco) - Symposium on Compositional Structures
 
 ## Journals
-*Academic journals on category theory.*
 
 * [Compositionality](http://www.compositionality-journal.org/) - open-access journal for research using compositional ideas, most notably of a category-theoretic origin, in any discipline
 
@@ -195,7 +193,6 @@ A curated list of awesome Category Theory resources.
 * [Sean Carroll's Mindscape: Emily Riehl on Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/)
 
 ## Software Libraries
-*Libraries to actually encode category theory in software.*
 
 * [Category Theory in Coq](https://github.com/jwiegley/category-theory) - An axiom-free formalization of category theory in Coq
 * [Catlab.jl](https://github.com/epatters/Catlab.jl) - an experimental framework for applied category theory
@@ -208,7 +205,6 @@ A curated list of awesome Category Theory resources.
 * [Category Theory in Lean4](https://leanprover-community.github.io/mathlib_docs/category_theory/category/basic.html)
 
 ## Tools
-*Useful tools for category theory.*
 
 * [Quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 * [Cartographer.id](http://cartographer.id/) - a tool for string diagrammatic reasoning
@@ -216,7 +212,7 @@ A curated list of awesome Category Theory resources.
 * [KdMonCat](https://edit.statebox.cloud/) - a tool for drawing morphisms in monoidal categories
 
 ## Video Lectures
-*Video lectures on category theory.*
+
 * [Applied Category Theory @ MIT 2019](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5), series of lectures based on the "Seven Sketches" book - by [Brendan Fong][fong] and [David I. Spivak][spivak]
 * [Applied Category Theory at Topos Institute](https://www.youtube.com/watch?v=UusLtx9fIjs&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 * [Bartosz Milewski's video lectures](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
