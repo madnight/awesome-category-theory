@@ -8,14 +8,16 @@ A curated list of awesome Category Theory resources.
     - [Blogs](#blogs)
     - [Books](#books)
     - [Companies](#companies)
+    - [Community](#community)
     - [Conferences](#conferences)
     - [Journals](#journals)
     - [Lectures](#lectures)
     - [Meetups](#meetups)
-    - [Podcasts](#Podcasts)
+    - [Podcasts](#podcasts)
     - [Software Libraries](#software-libraries)
     - [Tools](#tools)
     - [Video Lectures](#video-lectures)
+    - [Wiki](#wiki)
 
 ## Articles
 
@@ -118,6 +120,8 @@ A curated list of awesome Category Theory resources.
   * [Markov categories](https://arxiv.org/abs/1908.07021)
   * [Probability, valuations, hyperspace: Three monads on Top and the support as a morphism](https://arxiv.org/abs/1910.03752)
   * [Representable Markov Categories and Comparison of Statistical Experiments in Categorical Probability](https://arxiv.org/abs/2010.07416)
+#### Set Theory
+  * [Set theory for category theory](https://arxiv.org/pdf/0810.1279.pdf)
 #### Topological Data Analysis
   * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443)
   * [Persistent-Homology-based Machine Learning and its Applications - A Survey](https://arxiv.org/abs/1811.00252)
@@ -146,10 +150,11 @@ A curated list of awesome Category Theory resources.
 * [Basic Category Theory](https://arxiv.org/abs/1612.09375) - by Tom Leinster
 * [Category Theory in Context](https://math.jhu.edu/~eriehl/context.pdf) - by Emily Riehl
 * [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
+* [Categories for Quantum Theory: An Introduction](https://www.amazon.com/Categories-Quantum-Theory-Introduction-Mathematics/dp/0198739621?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=saxxie-20&linkId=970d027b9ed176eadeca7e50c0a9c07f&language=en_US&ref_=as_li_ss_tl)
 
 ## Companies
 
-#### Heavily using ACT
+#### Utilizing ACT to a great extent
 
 * [Conexus](https://conexus.com/) - A start-up developing [CQL](https://www.categoricaldata.net/), a generalization of SQL to data migration and integration that contains an automated theorem prover to rule out most semantic errors at compile time.
 * [Statebox](https://statebox.org/) - building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination
@@ -159,6 +164,13 @@ A curated list of awesome Category Theory resources.
 * [IOHK](https://iohk.io/) - builds cryptocurrencies and blockchain solutions, based on peer reviewed papers; formally verified specifications in [Agda](https://github.com/input-output-hk/plutus/tree/master/metatheory), [Coq](https://github.com/input-output-hk?language=coq) and [k-framework](https://testnet.iohkdev.io/iele/about/formal-verification/)
 * [RChain](https://github.com/rchain/) - blockchain ecosystem it's foundational language - Rholang is implementation of [rho-calculus](http://rho.loria.fr/index.html) wih deep roots in [higher category theory](https://arxiv.org/abs/1504.04311) and [enriched Lawvere theories](https://arxiv.org/abs/1704.03080)
 
+## Community
+* [nForum](https://nforum.ncatlab.org/search/?PostBackAction=Search&Type=Topics&Tag=category-theory)
+* [ZulipChat](https://categorytheory.zulipchat.com/) - requires invite
+* [/r/CategoryTheory on Reddit](https://reddit.com/r/categorytheory)
+* [Applied Category Theory on Discord by Topos Institute](https://discord.gg/hTEpgYv)
+* [Category Theory Channel on the biggest Discord Math Server](https://discord.com/channels/268882317391429632/497227343337881640)
+
 ## Conferences
 
 * [ACT](http://www.appliedcategorytheory.org/) - Applied Category Theory Conference
@@ -167,7 +179,9 @@ A curated list of awesome Category Theory resources.
 
 ## Journals
 
+* [Categories and General Algebraic Structures with Applications](https://cgasa.sbu.ac.ir/)
 * [Compositionality](http://www.compositionality-journal.org/) - open-access journal for research using compositional ideas, most notably of a category-theoretic origin, in any discipline
+* [Theory and Applications of Categories](http://www.tac.mta.ca/tac/)
 
 ## Lectures
   * [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/) - David Spivak and Brendan Fong
@@ -191,6 +205,8 @@ A curated list of awesome Category Theory resources.
 * [Lambda Cast](https://soundcloud.com/lambda-cast)
 * [Corecursive: Category Theory With Bartosz Milewski](https://corecursive.com/035-bartosz-milewski-category-theory/)
 * [Sean Carroll's Mindscape: Emily Riehl on Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/)
+* [Category Theory for Normal Humans with Dr. Eugenia Cheng](https://www.greaterthancode.com/category-theory-for-normal-humans)
+* [Eric Daimler on Conexus and Category](https://soundcloud.com/max-sklar-637976507/ep-243-eric-daimler-on-conexus-and-category-theory)
 
 ## Software Libraries
 
@@ -220,6 +236,9 @@ A curated list of awesome Category Theory resources.
 * [Programming with Categories](https://www.youtube.com/watch?v=NUBEB9QlNCM)
 * [The Catsters](https://www.youtube.com/user/TheCatsters)
 * [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY) by Edward Kmett
+
+## Wiki
+* [ncatlab](https://ncatlab.org) — a wiki with content varying from pure category theory, to categorical perspectives on other areas of maths, to random unrelated bits of maths
 
 [abbot]: https://www.cs.le.ac.uk/people/mabbott/
 [altenkirch]: http://www.cs.nott.ac.uk/~psztxa/
