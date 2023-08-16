@@ -237,6 +237,7 @@ A curated list of awesome Category Theory resources.
 * [Programming with Categories](https://www.youtube.com/watch?v=NUBEB9QlNCM)
 * [The Catsters](https://www.youtube.com/user/TheCatsters)
 * [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY) by Edward Kmett
+* [Category theory foundations](https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb) Steve Awodey has an excellent series, aimed a little higher (with a compsci flavour), going a little further
 
 ## Wiki
 * [ncatlab](https://ncatlab.org) — a wiki with content varying from pure category theory, to categorical perspectives on other areas of maths, to random unrelated bits of maths
