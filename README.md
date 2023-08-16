@@ -219,6 +219,7 @@ A curated list of awesome Category Theory resources.
 * [free](https://hackage.haskell.org/package/free) - Monads for free
 * [idris-ct](https://github.com/statebox/idris-ct) - a formally verified category theory library written in [Idris](https://www.idris-lang.org/)
 * [Category Theory in Lean4](https://leanprover-community.github.io/mathlib_docs/category_theory/category/basic.html)
+* [WildCats](https://wildcatsformma.wordpress.com/) - Mathematica package for computational category theory
 
 ## Tools
 
