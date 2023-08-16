@@ -134,6 +134,7 @@ A curated list of awesome Category Theory resources.
 * [What is category theory, anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway) by Tai-Danae Bradle
 * [On compositionality](https://julesh.com/2017/04/22/on-compositionality/) by Jules Hedges
 * [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/) by Mark Seemann
+* [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
 
 ## Books
 
@@ -149,8 +150,8 @@ A curated list of awesome Category Theory resources.
 * [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - by [Tai-Danae Bradley][bradley]
 * [Basic Category Theory](https://arxiv.org/abs/1612.09375) - by Tom Leinster
 * [Category Theory in Context](https://math.jhu.edu/~eriehl/context.pdf) - by Emily Riehl
-* [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
 * [Categories for Quantum Theory: An Introduction](https://www.amazon.com/Categories-Quantum-Theory-Introduction-Mathematics/dp/0198739621?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=saxxie-20&linkId=970d027b9ed176eadeca7e50c0a9c07f&language=en_US&ref_=as_li_ss_tl)
+* [From Categories to Homotopy Theory](https://www.math.uni-hamburg.de/home/richter/bookdraft.pdf) - by Birgit Richter, gets advanced, but Part I ‘Category Theory’ is pretty accessible
 
 ## Companies
 
