@@ -244,6 +244,7 @@ A curated list of awesome Category Theory resources.
 
 ## Wiki
 * [ncatlab](https://ncatlab.org) — a wiki with content varying from pure category theory, to categorical perspectives on other areas of maths, to random unrelated bits of maths
+* [Wikipedia](https://en.wikipedia.org/wiki/Outline_of_category_theory) - has some good articles about category theory
 
 [abbot]: https://www.cs.le.ac.uk/people/mabbott/
 [altenkirch]: http://www.cs.nott.ac.uk/~psztxa/
