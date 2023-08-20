@@ -14,6 +14,7 @@ A curated list of awesome Category Theory resources.
     - [Lectures](#lectures)
     - [Meetups](#meetups)
     - [Podcasts](#podcasts)
+    - [Related](#related)
     - [Software Libraries](#software-libraries)
     - [Tools](#tools)
     - [Video Lectures](#video-lectures)
@@ -208,6 +209,18 @@ A curated list of awesome Category Theory resources.
 * [Sean Carroll's Mindscape: Emily Riehl on Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/)
 * [Category Theory for Normal Humans with Dr. Eugenia Cheng](https://www.greaterthancode.com/category-theory-for-normal-humans)
 * [Eric Daimler on Conexus and Category](https://soundcloud.com/max-sklar-637976507/ep-243-eric-daimler-on-conexus-and-category-theory)
+
+## Related
+
+#### Books
+
+* [Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/) - Homotopy type theory is an emerging field in mathematics that uniquely merges elements from diverse areas.
+* [A Book of Abstract Algebra: Second Edition](https://www.amazon.com/Book-Abstract-Algebra-Second-Mathematics/dp/0486474178/ref=as_li_ss_tl?crid=9UYHEJVLG8UX&dchild=1&keywords=a+book+of+abstract+algebra&qid=1601150629&sprefix=A+Book+of+Abstract,aps,401&sr=8-1&linkCode=sl1&tag=prathyvsh-20&linkId=862e18748d7d6025561022da3fadbcfd&language=en_US) - Comprehensive yet approachable, this exceptional book covers all subjects addressed in a standard introductory abstract algebra course.
+
+
+
+
+
 
 ## Software Libraries
 

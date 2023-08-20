@@ -4820,7 +4820,7 @@ a.badge:focus {
 .thumbnail .testimonial-caption {
     padding: 9px;
     color: #333333;
-    height: 300px;
+    height: 280px;
     overflow-y: auto;
     word-wrap: break-word
 }
