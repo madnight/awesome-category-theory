@@ -217,10 +217,9 @@ A curated list of awesome Category Theory resources.
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/) - Homotopy type theory is an emerging field in mathematics that uniquely merges elements from diverse areas.
 * [A Book of Abstract Algebra: Second Edition](https://www.amazon.com/Book-Abstract-Algebra-Second-Mathematics/dp/0486474178/ref=as_li_ss_tl?crid=9UYHEJVLG8UX&dchild=1&keywords=a+book+of+abstract+algebra&qid=1601150629&sprefix=A+Book+of+Abstract,aps,401&sr=8-1&linkCode=sl1&tag=prathyvsh-20&linkId=862e18748d7d6025561022da3fadbcfd&language=en_US) - Comprehensive yet approachable, this exceptional book covers all subjects addressed in a standard introductory abstract algebra course.
 
+#### Podcasts
 
-
-
-
+* [Type Theory Forall](https://www.typetheoryforall.com) - Type Theory Forall is a podcast hosted by Pedro Abreu (Pronounced ‘Ahbrel’), PhD Student in Programming Languages at Purdue University.
 
 ## Software Libraries
 
