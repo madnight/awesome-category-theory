@@ -23,51 +23,52 @@ A curated list of awesome Category Theory resources.
 ## Articles
 
 #### Bayesian/Causal inference
-  * [A Categorical Foundation for Bayesian probability](https://arxiv.org/abs/1205.1488)
-  * [A Channel-Based Perspective on Conjugate Priors](https://arxiv.org/abs/1707.00269)
-  * [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230)
-  * [A category theory framework for Bayesian Learning](https://arxiv.org/abs/2111.14293)
-  * [Automatic Backward Filtering Forward Guiding for Markov processes and graphical models](https://arxiv.org/abs/2010.03509)
-  * [Bayesian Open Games](https://arxiv.org/abs/1910.03656)
-  * [Bayesian Updates Compose Optically](https://arxiv.org/abs/2006.01631)
-  * [Bayesian machine learning via category theory](https://arxiv.org/abs/1312.1445)
-  * [Categorical Stochastic Processes and Likelihood](https://arxiv.org/abs/2005.04735)
-  * [Causal Inference by String Diagram Surgery](https://arxiv.org/abs/1811.08338)
-  * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201)
-  * [Compositionality in algorithms for smoothing](https://arxiv.org/abs/2303.13865)
-  * [Denotational validation of higher-order Bayesian inference](https://arxiv.org/abs/1711.03219)
-  * [Dependent Bayesian Lenses: Categories of Bidirectional Markov Kernels with Canonical Bayesian Inversion](https://arxiv.org/abs/2209.14728)
-  * [Disintegration and Bayesian Inversion via String Diagrams](https://arxiv.org/abs/1709.00322)
-  * [Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda Calculus](https://arxiv.org/abs/1802.09787)
-  * [The Compositional Structure of Bayesian Inference](https://arxiv.org/abs/2305.06112)
-  * [The Geometry of Bayesian Programming](https://arxiv.org/abs/1904.07425)
+  * [A Categorical Foundation for Bayesian probability](https://arxiv.org/abs/1205.1488) - Bayesian inference and decision making on measurable spaces with countably generated σ-algebras, using regular conditional probabilities and Eilenberg--Moore algebras by Jared Culbertson, Kirk Sturtz (2013)
+  * [A Channel-Based Perspective on Conjugate Priors](https://arxiv.org/abs/1707.00269) - Introduces channels in a graphical language to define and study conjugate priors in Bayesian probability, and shows how they ensure the same class of distributions for prior and posterior by Bart Jacobs (2017)
+  * [A Type Theory for Probabilistic and Bayesian Reasoning](https://arxiv.org/abs/1511.09230) - A new type theory and logic for probabilistic reasoning with fuzzy predicates and normalisation and conditioning of states by Robin Adams, Bart Jacobs (2015)
+  * [A category theory framework for Bayesian Learning](https://arxiv.org/abs/2111.14293) - Drawing from Spivak, Fong, and Cruttwell et al.'s foundational works, this study establishes a categorical framework for Bayesian inference, incorporating concepts of Bayesian inversions by Kotaro Kamiya, John Welliaveetil (2021)
+  * [Automatic Backward Filtering Forward Guiding for Markov processes and graphical models](https://arxiv.org/abs/2010.03509) - Describing a Backward Filtering Forward Guiding (BFFG) paradigm for inference on latent states and parameters, and transforms a forward generative model into a data-guided pre-conditional mode by Frank van der Meulen, Moritz Schauer (2020)
+  * [Bayesian Open Games](https://arxiv.org/abs/1910.03656) - Extends compositional game theory to handle stochasticity and incomplete information using category theory and coend optics by Joe Bolt, Jules Hedges, Philipp Zahn (2019)
+  * [Bayesian Updates Compose Optically](https://arxiv.org/abs/2006.01631) - Utilizing lens pattern and a fibred category to model the compositional structure of Bayesian inversion by Toby St. Clere Smithe (2020)
+  * [Bayesian machine learning via category theory](https://arxiv.org/abs/1312.1445) - Using categorical methods, the study frames machine learning concepts within the realm of conditional probabilities, building models for both parametric and nonparametric Bayesian reasoning on function spaces, and exemplifies the Kalman filter's relation to the hidden Markov model by Jared Culbertson, Kirk Sturtz (2013)
+  * [Categorical Stochastic Processes and Likelihood](https://arxiv.org/abs/2005.04735) - Explores the link between probabilistic modeling and function approximation, introduces two extensions of function composition related to stochastic processes by Dan Shiebler (2020)
+  * [Causal Inference by String Diagram Surgery](https://arxiv.org/abs/1811.08338) - Extract causal relationships from correlations, using string diagram syntax and semantics, and showcases a method to compute causal effects by Bart Jacobs, Aleks Kissinger, Fabio Zanasi (2018)
+  * [Causal Theories: A Categorical Perspective on Bayesian Networks](https://arxiv.org/abs/1301.6201) - This dissertation introduces a graphical framework for causal reasoning, based on monoidal categories, and presents a new structure called a causal theory by Brendan Fong (2013)
+  * [Compositionality in algorithms for smoothing](https://arxiv.org/abs/2303.13865) - Backward Filtering Forward Guiding with optics and prove that different ways of composing the building blocks of BFFG correspond to equivalent optics by Moritz Schauer, Frank van der Meulen (2023)
+  * [Denotational validation of higher-order Bayesian inference](https://arxiv.org/abs/1711.03219) - Introduces Bayesian inference algorithms in probabilistic programming using higher-order functions and quasi-Borel spaces (2017)
+  * [Dependent Bayesian Lenses: Categories of Bidirectional Markov Kernels with Canonical Bayesian Inversion](https://arxiv.org/abs/2209.14728) - Extends the concept of Bayesian Lenses to include cases where one object depends on another, providing a framework to study specific stochastic maps by Dylan Braithwaite, Jules Hedges (2022)
+  * [Disintegration and Bayesian Inversion via String Diagrams](https://arxiv.org/abs/1709.00322) - Abstract graphical representations of disintegration and Bayesian inversion concepts in conditional probability by Kenta Cho, Bart Jacobs (2017)
+  * [Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda Calculus](https://arxiv.org/abs/1802.09787) - A guarded λ-calculus with discrete probabilities and a program logic to understand relational aspects of probabilistic computations, such as Markov chains (2018)
+  * [The Compositional Structure of Bayesian Inference](https://arxiv.org/abs/2305.06112) - Examines how Bayes' rule, which updates beliefs based on new evidence, can be applied piecewise to complex processes, linking it to the lens pattern in programming by Dylan Braithwaite, Jules Hedges, Toby St Clere Smithe (2023)
+  * [The Geometry of Bayesian Programming](https://arxiv.org/abs/1904.07425) - A geometric interaction model for a typed lambda-calculus equipped with tools for continuous sampling and soft conditioning by Ugo Dal Lago, Naohiko Hoshino (2019)
 #### Databases
-  * [Algebraic databases](http://www.tac.mta.ca/tac/volumes/32/16/32-16abs.html) - by Patrick Schultz, David I. Spivak, Christina Vasilakopoulou and Ryan Wisnesky
-  * [Algebraic Model Management: A survey](https://www.categoricaldata.net/cql/wadt.pdf) - by Patrick Schultz, David I. Spivak, and Ryan Wisnesky
-  * [Functorial data migration](https://www.sciencedirect.com/science/article/pii/S0890540112001010) - by David I. Spivak
+  * [Algebraic databases](http://www.tac.mta.ca/tac/volumes/32/16/32-16abs.html) - Enhances traditional category-theoretic database models to better handle concrete data like integers or strings using multi-sorted algebraic theories by Patrick Schultz, David I. Spivak, Christina Vasilakopoulou and Ryan Wisnesky (2017)
+  * [Algebraic Model Management: A survey](https://www.categoricaldata.net/cql/wadt.pdf) - We survey the field of model management and describe a
+new model management approach based on algebraic specification by Patrick Schultz, David I. Spivak, and Ryan Wisnesky (2017)
+  * [Functorial data migration](https://www.sciencedirect.com/science/article/pii/S0890540112001010) - A database language based on categories and functors, where a schema is depicted as a category and its instance as a set-valued functor by David I. Spivak (2012)
 #### Data Types
-  * [Categories of Containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf) - by Michael Abbot, horsten Altenkirch and Neil Ghani
+  * [Categories of Containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf) - Introduces containers as a mathematical model of datatypes with templated data storage, demonstrating their robustness under various constructions, including initial algebras and final coalgebras by Michael Abbot, horsten Altenkirch and Neil Ghani (2003)
 #### Deep Learning
-  * [Backprop as Functor](https://arxiv.org/abs/1711.10455)
-  * [Categorical Foundations of Gradient-Based Learning](https://arxiv.org/abs/2103.01931)
-  * [Categories of Differentiable Polynomial Circuits for Machine Learning](https://arxiv.org/abs/2203.06430)
-  * [Compositional Deep Learning](https://arxiv.org/abs/1907.08292) - by Bruno Gavranović
-  * [Compositionality for Recursive Neural Networks](https://arxiv.org/abs/1901.10723)
-  * [Deep neural networks as nested dynamical systems](https://arxiv.org/abs/2111.01297)
-  * [Dioptics](http://events.cs.bham.ac.uk/syco/strings3-syco5/papers/dalrymple.pdf)
-  * [Learning Functors using Gradient Descent](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Bruno%20Gavranovic.pdf)
-  * [Lenses and Learners](https://arxiv.org/abs/1903.03671)
-  * [Neural network layers as parametric spans](https://arxiv.org/abs/2208.00809)
-  * [Reverse Derivative Ascent](https://arxiv.org/abs/2101.10488)
+  * [Backprop as Functor](https://arxiv.org/abs/1711.10455) - Describes a category for supervised learning algorithms that search for the best approximation of an ideal function using example data and update rules by Brendan Fong, David I. Spivak, Rémy Tuyéras (2017)
+  * [Categorical Foundations of Gradient-Based Learning](https://arxiv.org/abs/2103.01931) - Categorical interpretation of gradient-based machine learning algorithms using lenses, parametrised maps, and reverse derivative categories (2021)
+  * [Categories of Differentiable Polynomial Circuits for Machine Learning](https://arxiv.org/abs/2203.06430) - Reverse Derivative Categories (RDCs) as a framework for machine learning. We introduce 'polynomial circuits' as an apt machine learning model by Paul Wilson, Fabio Zanasi (2022)
+  * [Compositional Deep Learning](https://arxiv.org/abs/1907.08292) - Category-theoretic structure for a class of neural networks like CycleGAN, using this framework to design a new neural network for image object manipulation, and showcases its effectiveness through tests on multiple datasets by Bruno Gavranović (2019)
+  * [Compositionality for Recursive Neural Networks](https://arxiv.org/abs/1901.10723) - Simplified recursive neural tensor network model aligns with the categorical approach to compositionality, offering a feasible computational method and opening new research avenues for both vector space semantics and neural network models by Martha Lewis (2019)
+  * [Deep neural networks as nested dynamical systems](https://arxiv.org/abs/2111.01297) - Argues that the common comparison between deep neural networks and brains is wrong, and proposes a new way of thinking about them using category theory and dynamical systems by David I. Spivak, Timothy Hosgood (2021)
+  * [Dioptics: a Common Generalization of Open Games and Gradient-Based Learners](https://research.protocol.ai/publications/dioptics-a-common-generalization-of-open-games-and-gradient-based-learners/dalrymple2019.pdf) - Relationship between machine-learning algorithms and open games, suggesting both can be understood as instances of "categories of dioptics". It expands on gradient-based learning, introducing a category that embeds into the category of learners (2019)
+  * [Learning Functors using Gradient Descent](https://arxiv.org/abs/2009.06837) - A category-theoretic understanding of CycleGAN, a notable method for unpaired image-to-image translation by Bruno Gavranović (2020)
+  * [Lenses and Learners](https://arxiv.org/abs/1903.03671) - Shows a strong connection between lenses, which model bidirectional transformations like database interactions, and learners, which represent a compositional approach to supervised learning by Brendan Fong, Michael Johnson (2019)
+  * [Neural network layers as parametric spans](https://arxiv.org/abs/2208.00809) - Linear layer in neural networks, drawing on integration theory and parametric spans by Mattia G. Bergomi, Pietro Vertechi (2022)
+  * [Reverse Derivative Ascent](https://arxiv.org/abs/2101.10488) - Reverse Derivative Ascent, a categorical counterpart to gradient-based learning techniques, formulated within the context of reverse differential categories by Paul Wilson, Fabio Zanasi (2021)
 #### Differentiable Programming / Automatic Differentiation
-  * [Correctness of Automatic Differentiation via Diffeologies and Categorical Gluing](https://arxiv.org/abs/2001.02209)
-  * [Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation](https://arxiv.org/abs/2212.09801)
-  * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093)
-  * [Functorial String Diagrams for Reverse-Mode Automatic Differentiation](https://arxiv.org/abs/2107.13433)
-  * [Higher Order Automatic Differentiation of Higher Order Functions](https://arxiv.org/abs/2101.06757)
-  * [Reverse Derivative Categories](https://arxiv.org/abs/1910.07065)
-  * [Simple Essence of Automatic Differentiation](https://arxiv.org/abs/1804.00746)
-  * [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351)
+  * [Correctness of Automatic Differentiation via Diffeologies and Categorical Gluing](https://arxiv.org/abs/2001.02209) Semantic validation for Automatic Differentiation (AD), characterizing a forward-mode AD in a higher-order language with algebraic data types by Mathieu Huot, Sam Staton, Matthijs Vákár (2020)
+  * [Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation](https://arxiv.org/abs/2212.09801) - Pure and efficient reverse-mode differentiation for functional languages using a 'unary form' by Mathieu Huot, Amir Shaikhha (2022)
+  * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093) - Causal computations in sequences using a category-theoretical model featuring a "delayed trace" operation, by applying an abstract form of backpropagation through time by David Sprunger, Shin-ya Katsumata (2019)
+  * [Functorial String Diagrams for Reverse-Mode Automatic Differentiation](https://arxiv.org/abs/2107.13433) - String diagram calculus with hierarchical features to capture monoidal structures, develop an automatic differentiation algorithm for simply typed lambda calculus, and represent the diagrams as "hypernets" (2021)
+  * [Higher Order Automatic Differentiation of Higher Order Functions](https://arxiv.org/abs/2101.06757) - Semantic proofs for automatic differentiation in a higher order language, using diffeological spaces for rich semantics by Mathieu Huot, Sam Staton, Matthijs Vákár (2021)
+  * [Reverse Derivative Categories](https://arxiv.org/abs/1910.07065) - Axiomatization of a category for reverse derivatives in machine learning, analogous to Cartesian differential categories for forward derivatives (2019)
+  * [Simple Essence of Automatic Differentiation](https://arxiv.org/abs/1804.00746) - Simplified and generalized automatic differentiation in reverse mode (RAD) algorithm, derived from a clear specification by Conal Elliott (2018)
+  * [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351) - Compare and compose optics and lenses, which are ways of modeling bidirectional data flow, using 2-category theory by Bruno Gavranović (2022)
   * [Towards formalizing and extending differential programming using tangent categories](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Jonathan%20Gallagher,%20Geoff%20Cruttwell%20and%20Ben%20MacAdam.pdf)
   * [Using Rewrite Strategies for Efficient Functional Automatic Differentiation](https://arxiv.org/abs/2307.02447)
 #### Dynamical Systems
@@ -139,40 +140,34 @@ A curated list of awesome Category Theory resources.
 
 ## Books
 
-* [Category Theory](https://amzn.to/2HAe42N) - by Steve Awodey
-* [Categories for the Working Mathematician](https://www.amazon.de/-/en/Saunders-Mac-Lane/dp/1441931236) - by Saunders Mac Lane, founder of category theory together with Samuel Eilenberg
-* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - by Bartosz Milewski
-* [Category Theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) - by David I. Spivak
-* [Conceptual Mathematics: A First Introduction to Categories](https://s3.amazonaws.com/arena-attachments/325201/2ff932bf546d8985eb613fccf02b69c7.pdf) - by Schanuel, Lawvere
+* [Category Theory](https://amzn.to/2HAe42N) - This book offers an in-depth yet accessible introduction to category theory, targeting a diverse audience and covering essential concepts; the second edition includes expanded content, new sections, and additional exercises by Steve Awodey (2010)
+* [Categories for the Working Mathematician](https://www.amazon.de/-/en/Saunders-Mac-Lane/dp/1441931236) - The content is in-depth, and its mathematical aspects can be challenging for the reader. It's advisable to explore this book after reading one or two of the more introductionary books. This book is a classic by Saunders Mac Lane (1971)
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - This book introduces Category Theory at a level appropriate for computer scientists and provides practical examples (in Haskell) in the context of programming languages by Bartosz Milewski (2019)
+* [Category Theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) - An introduction to category theory as a rigorous, flexible, and coherent modeling language that can be used across the sciences by David I. Spivak (2014)
+* [Conceptual Mathematics: A First Introduction to Categories](https://s3.amazonaws.com/arena-attachments/325201/2ff932bf546d8985eb613fccf02b69c7.pdf) - This book demonstrates the power of 'category' to make mathematics easier and more connected for anyone. It begins with basic definitions and creates simple categories, such as discrete dynamical systems and directed graphs, with examples, by Schanuel, Lawvere (2009)
 * [Draft of "Categorical Systems Theory"](http://davidjaz.com/Papers/DynamicalBook.pdf) - by Jaz Myers
 * [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf) - by Spivak, Niu
-* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - by Brendan Fong and David I. Spivak
-* [The Joy of Abstraction](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) - by Eugenia Cheng
-* [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - by Tai-Danae Bradley
-* [Basic Category Theory](https://arxiv.org/abs/1612.09375) - by Tom Leinster
-* [Category Theory in Context](https://math.jhu.edu/~eriehl/context.pdf) - by Emily Riehl
+* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - This book by David I. Spivak and Brendan Fong (2019) provides an introductory glimpse into Category Theory by covering 7 key topics. It highlights practical, real-world examples to give readers a feel for the abstract theoretical concepts
+* [The Joy of Abstraction](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) - The book by Eugenia Cheng (2022) is written in a clear and engaging style. Cheng is a gifted writer who is able to make complex mathematical concepts accessible to a general audience
+* [Basic Category Theory](https://arxiv.org/abs/1612.09375) - Tom Leinster's (2014) book represents an edited version of his lecture notes. As such, it is a concise work that provides focused coverage of the Category Theory topics it addresses
+* [Category Theory in Context](https://math.jhu.edu/~eriehl/context.pdf) - This text book by Emily Riehl (2016) is advanced and is suitable for diligent students who have mastered prior readings. It's praised for its well-crafted prose on Category Theory. Initially, it adopts an example-based methodology before illustrating how category theoretical language can encapsulate the concepts
 * [Categories for Quantum Theory: An Introduction](https://www.amazon.com/Categories-Quantum-Theory-Introduction-Mathematics/dp/0198739621?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=saxxie-20&linkId=970d027b9ed176eadeca7e50c0a9c07f&language=en_US&ref_=as_li_ss_tl)
-* [From Categories to Homotopy Theory](https://www.math.uni-hamburg.de/home/richter/bookdraft.pdf) - by Birgit Richter, gets advanced, but Part I ‘Category Theory’ is pretty accessible
-* [An Introduction to Category Theory](https://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043) - by Harold Simmons
+* [From Categories to Homotopy Theory](https://www.math.uni-hamburg.de/home/richter/bookdraft.pdf) - by Birgit Richter (2020), gets advanced, but Part I ‘Category Theory’ is pretty accessible
+* [An Introduction to Category Theory](https://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043) - This book offers a beginner-friendly introduction to category theory, a versatile conceptual framework used across various disciplines, detailing fundamental concepts, examples, and over 200 exercises, making it ideal for self-study or as a course text, by Harold Simmons (2011)
 
 ## Companies
 
-#### Utilizing ACT to a great extent
-
 * [Conexus](https://conexus.com/) - A start-up developing CQL, a generalization of SQL to data migration and integration that contains an automated theorem prover to rule out most semantic errors at compile time
 * [Statebox](https://statebox.org/) - building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination
-
-#### Interested in ACT research
-
 * [IOHK](https://iohk.io/) - builds cryptocurrencies and blockchain solutions, based on peer reviewed papers; formally verified specifications in Agda, Coq and k-framework
 * [RChain](https://github.com/rchain/) - blockchain ecosystem it's foundational language - Rholang is implementation of rho-calculus wih deep roots in higher category theory and enriched Lawvere theories
 
 ## Community
-* [nForum](https://nforum.ncatlab.org/search/?PostBackAction=Search&Type=Topics&Tag=category-theory)
-* [ZulipChat](https://categorytheory.zulipchat.com/) - requires invite
-* [/r/CategoryTheory on Reddit](https://reddit.com/r/categorytheory)
-* [Applied Category Theory on Discord by Topos Institute](https://discord.gg/hTEpgYv)
-* [Category Theory Channel on the biggest Discord Math Server](https://discord.com/channels/268882317391429632/497227343337881640)
+* [nForum](https://nforum.ncatlab.org/search/?PostBackAction=Search&Type=Topics&Tag=category-theory) - A discussion forum about contributions to the nLab wiki and related areas of mathematics, physics, and philosophy
+* [ZulipChat](https://categorytheory.zulipchat.com/) - A Category Theory Zulip server, that requires invite
+* [/r/CategoryTheory on Reddit](https://reddit.com/r/categorytheory) - A Category Theory subreddit
+* [Applied Category Theory on Discord by Topos Institute](https://discord.gg/hTEpgYv) - A Discord Server about Applied Category Theory by the Topos Institute
+* [Category Theory on Discord Math](https://discord.com/channels/268882317391429632/497227343337881640) - Category Theory Channel on the biggest Discord Math Server
 
 ## Conferences
 
@@ -182,29 +177,28 @@ A curated list of awesome Category Theory resources.
 
 ## Journals
 
-* [Categories and General Algebraic Structures with Applications](https://cgasa.sbu.ac.ir/)
-* [Compositionality](http://www.compositionality-journal.org/) - open-access journal for research using compositional ideas, most notably of a category-theoretic origin, in any discipline
-* [Theory and Applications of Categories](http://www.tac.mta.ca/tac/)
+* [Categories and General Algebraic Structures with Applications](https://cgasa.sbu.ac.ir/) - Categories and General Algebraic Structures with Applications is an international biannual journal published by Shahid Beheshti University, Tehran, Iran, founded in 2013
+* [Compositionality](http://www.compositionality-journal.org/) - Open-access journal for research using compositional ideas, most notably of a category-theoretic origin, in any discipline
+* [Theory and Applications of Categories](http://www.tac.mta.ca/tac/) - Theory and Applications of Categories (ISSN 1201 - 561X) is the all-electronic, refereed journal on Category Theory, categorical methods and their applications in the mathematical sciences.
 
 ## Lectures
   * [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/) - David Spivak and Brendan Fong
-  * [18.S097: Programming with Categories](http://brendanfong.com/programmingcats.html), [lecture notes](http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf) - Brendan Fong, Bartosz Milewski, and David Spivak
-  * [The Azimuth Project, Applied Category Theory Course](https://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course) - John Baez
-  * [CS 353: Algebraic Logic - Chapter 4: Category theory](http://boole.stanford.edu/cs353/handouts/book4.pdf)
-  * [Quantum Processes and Computation](http://www.cs.ru.nl/A.Kissinger/teaching/qpc2019/) - Aleks Kissinger and John van de Wetering
-  * [Category theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - Bodo Pareigis
-  * [Category Theory Foundations, Oregon Programming Languages Summer School 2012](https://www.youtube.com/watch?v=ZKmodCApZwk) - Steve Awodey
-  * [Commutative algebra](https://www.youtube.com/watch?v=QOTf8KfrZFU&list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB) - Richard E. Borcherds
-  * [Introduction to Category Theory and Categorical Logic](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
+  * [What is Applied Category Theory](https://arxiv.org/abs/1809.05923) - This is a collection of introductory, expository notes on applied category theory, inspired by the Applied Category Theory Workshop by Tai-Danae Bradley (2018)
+  * [18.S097: Programming with Categories](http://brendanfong.com/programmingcats.html), [lecture notes](http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf) - In this course we explain how category theory has become useful for writing elegant and maintainable code. In particular, we'll use examples from the Haskell programming language to motivate category-theoretic constructs. By Brendan Fong, Bartosz Milewski, and David Spivak (2020)
+  * [CS 353: Algebraic Logic - Chapter 4: Category theory](http://boole.stanford.edu/cs353/handouts/book4.pdf) - Lecture Notes from Stanford University (2022)
+  * [Quantum Processes and Computation](http://www.cs.ru.nl/A.Kissinger/teaching/qpc2019/) - Lecture Notes from Radboud University (Netherlands) by Aleks Kissinger and John van de Wetering (2019)
+  * [Category theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - Lecture Notes from University of Munich by Bodo Pareigis (2004)
+  * [Commutative algebra](https://www.youtube.com/watch?v=QOTf8KfrZFU&list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB) - This lecture is part of an online course on commutative algebra, following the book
+"Commutative algebra with a view toward algebraic geometry" by David Eisenbud. By Richard E. Borcherds (2020).
+  * [Introduction to Category Theory and Categorical Logic](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Lecture Notes of Darmstadt University of Technology by Thomas Streicher (2003)
 
 ## Meetups
-* [Boston](https://www.meetup.com/Categorical-Databases/)
-* [New York](https://www.meetup.com/NYC-Category-Theory/)
-* [San Francisco Bay Area](https://www.meetup.com/Category-Theory)
+* [Boston](https://www.meetup.com/Categorical-Databases/) - This group is about applying category theory to problems in information management
+* [New York](https://www.meetup.com/NYC-Category-Theory/) - NYC Category Theory and Algebra is a group for people interested in studying Category Theory (CT) and/or Abstract Algebra together. One of our purposes is to meet and read basic texts in Category Theory.
+* [San Francisco Bay Area](https://www.meetup.com/Category-Theory) - A meetup dedicated to teaching category theory, and especially applications, including functional programming, data management, block-chain, quantum computing, and AI.
 
 ## Podcasts
 
-* [Lambda Cast](https://soundcloud.com/lambda-cast) - LambdaCast is a podcast about functional programming for working developers
 * [Corecursive: Category Theory With Bartosz Milewski](https://corecursive.com/035-bartosz-milewski-category-theory/) - Adam talks to Bartosz Milewski, the author of a popular blog series, lecture series, and now book on Category Theory for programmers
 * [Sean Carroll's Mindscape: Emily Riehl on Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/) - Emily Riehl discusses how mathematical concepts, like topology and category theory, enrich our understanding of the universe and its possibilities
 * [Category Theory for Normal Humans with Dr. Eugenia Cheng](https://www.greaterthancode.com/category-theory-for-normal-humans)
@@ -220,6 +214,7 @@ A curated list of awesome Category Theory resources.
 #### Podcasts
 
 * [Type Theory Forall](https://www.typetheoryforall.com) - Podcast hosted by Pedro Abreu (Pronounced ‘Ahbrel’), PhD Student in Programming Languages at Purdue University
+* [Lambda Cast](https://soundcloud.com/lambda-cast) - LambdaCast is a podcast about functional programming for working developers
 
 ## Software Libraries
 
@@ -246,13 +241,14 @@ A curated list of awesome Category Theory resources.
 * [Applied Category Theory @ MIT 2019](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) - Series of lectures based on the "Seven Sketches" book - by Brendan Fong and David I. Spivak
 * [Applied Category Theory at Topos Institute](https://www.youtube.com/watch?v=UusLtx9fIjs&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 * [Bartosz Milewski's video lectures](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
-* [Category Theory, The essence of interface-based design](https://www.youtube.com/watch?v=JMP6gI5mLHc) - by Erik Meijer
-* [Programming with Categories](https://www.youtube.com/watch?v=NUBEB9QlNCM)
-* [The Catsters](https://www.youtube.com/user/TheCatsters) - Videos on various topics in category theory
-* [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY) - by Edward Kmett
+* [Category Theory, The essence of interface-based design](https://www.youtube.com/watch?v=JMP6gI5mLHc) - Introduces concepts like Curry-Howard isomorphism, tuples, products, and functors, and explains how they relate to programming by Erik Meijer (2014)
+* [Programming with Categories](https://www.youtube.com/watch?v=NUBEB9QlNCM) Video lectures at MIT by Brendan Fong, Bartosz Milewski, David Spivak (2020)
+* [The Catsters](https://www.youtube.com/user/TheCatsters) - Videos on various topics in category theory (2014)
+* [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY) - Talk from Edward Kmett (2012) at the second New York Haskell User Group Meeting on the new lens library, which provides a highly composable toolbox for accessing and modifying multiple parts of data structures
 * [Category theory foundations](https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb) - Steve Awodey has an excellent series, aimed a little higher (with a compsci flavour), going a little further
 * [Lecture Videos and Readings](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/pages/lecture-videos-and-readings/) - B. Fong and D. Spivak: elementary lectures on applied category theory
 * [OPLSS 2016 - Category Theory Background](https://www.youtube.com/playlist?list=PLiHLLF-foEexKDi7tmiO5tP8Uxt0ueK-L) - Ed Morehouse: four basic level lectures to accompany his 2016 notes listed above
+* [Category Theory Foundations, Oregon Programming Languages Summer School 2012](https://www.youtube.com/watch?v=ZKmodCApZwk) - Material will be presented at a tutorial level that will help graduate students and researchers understand the critical issues and open problems confronting the field. By Steve Awodey (2012)
 
 ## Wiki
 * [ncatlab](https://ncatlab.org) - A wiki with content varying from pure category theory, to categorical perspectives on other areas of maths, to random unrelated bits of maths
