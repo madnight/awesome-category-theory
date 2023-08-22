@@ -61,7 +61,7 @@ new model management approach based on algebraic specification by Patrick Schult
   * [Neural network layers as parametric spans](https://arxiv.org/abs/2208.00809) - Linear layer in neural networks, drawing on integration theory and parametric spans by Mattia G. Bergomi, Pietro Vertechi (2022)
   * [Reverse Derivative Ascent](https://arxiv.org/abs/2101.10488) - Reverse Derivative Ascent, a categorical counterpart to gradient-based learning techniques, formulated within the context of reverse differential categories by Paul Wilson, Fabio Zanasi (2021)
 #### Differentiable Programming / Automatic Differentiation
-  * [Correctness of Automatic Differentiation via Diffeologies and Categorical Gluing](https://arxiv.org/abs/2001.02209) Semantic validation for Automatic Differentiation (AD), characterizing a forward-mode AD in a higher-order language with algebraic data types by Mathieu Huot, Sam Staton, Matthijs Vákár (2020)
+  * [Correctness of Automatic Differentiation via Diffeologies and Categorical Gluing](https://arxiv.org/abs/2001.02209) - Semantic validation for Automatic Differentiation (AD), characterizing a forward-mode AD in a higher-order language with algebraic data types by Mathieu Huot, Sam Staton, Matthijs Vákár (2020)
   * [Denotationally Correct, Purely Functional, Efficient Reverse-mode Automatic Differentiation](https://arxiv.org/abs/2212.09801) - Pure and efficient reverse-mode differentiation for functional languages using a 'unary form' by Mathieu Huot, Amir Shaikhha (2022)
   * [Differentiable Causal Computations via Delayed Trace](https://arxiv.org/abs/1903.01093) - Causal computations in sequences using a category-theoretical model featuring a "delayed trace" operation, by applying an abstract form of backpropagation through time by David Sprunger, Shin-ya Katsumata (2019)
   * [Functorial String Diagrams for Reverse-Mode Automatic Differentiation](https://arxiv.org/abs/2107.13433) - String diagram calculus with hierarchical features to capture monoidal structures, develop an automatic differentiation algorithm for simply typed lambda calculus, and represent the diagrams as "hypernets" (2021)
@@ -69,74 +69,75 @@ new model management approach based on algebraic specification by Patrick Schult
   * [Reverse Derivative Categories](https://arxiv.org/abs/1910.07065) - Axiomatization of a category for reverse derivatives in machine learning, analogous to Cartesian differential categories for forward derivatives (2019)
   * [Simple Essence of Automatic Differentiation](https://arxiv.org/abs/1804.00746) - Simplified and generalized automatic differentiation in reverse mode (RAD) algorithm, derived from a clear specification by Conal Elliott (2018)
   * [Space-time tradeoffs of lenses and optics via higher category theory](https://arxiv.org/abs/2209.09351) - Compare and compose optics and lenses, which are ways of modeling bidirectional data flow, using 2-category theory by Bruno Gavranović (2022)
-  * [Towards formalizing and extending differential programming using tangent categories](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Jonathan%20Gallagher,%20Geoff%20Cruttwell%20and%20Ben%20MacAdam.pdf)
-  * [Using Rewrite Strategies for Efficient Functional Automatic Differentiation](https://arxiv.org/abs/2307.02447)
+  * [Towards formalizing and extending differential programming using tangent categories](http://www.cs.ox.ac.uk/ACT2019/preproceedings/Jonathan%20Gallagher,%20Geoff%20Cruttwell%20and%20Ben%20MacAdam.pdf) - This paper explores how a simple differential programming language can be interpreted using synthetic differential geometry, proving it can consistently integrate manifolds and certain functions, while detailing the necessary frameworks and structures, by Geoff Cruttwell, Jonathan Gallagher, and Ben MacAdam (2019)
+  * [Using Rewrite Strategies for Efficient Functional Automatic Differentiation](https://arxiv.org/abs/2307.02447) - This paper integrates Automatic Differentiation (AD) with dual numbers in a functional programming language, using rewrite rules and strategy languages for optimization, aiming to efficiently combine differentiation accuracy with strategic optimization scheduling, supported by promising preliminary results from a micro-benchmark by Timon Böhler, David Richter, Mira Mezini (2023)
 #### Dynamical Systems
-  * [A categorical approach to open and interconnected dynamical systems](https://arxiv.org/abs/1510.05076) - by Brendan Fong, Paolo Rapisarda and Paweł Sobociński
+  * [A categorical approach to open and interconnected dynamical systems](https://arxiv.org/abs/1510.05076) - This paper presents a comprehensive graphical theory for discrete linear time-invariant systems, expanding on classical signal flow diagrams to handle streams with infinite pasts and futures, introduces a new structural view on controllability, and is grounded in the extended theory of props by Brendan Fong, Paolo Rapisarda and Paweł Sobociński (2015)
 #### Game Theory
-  * [A semantical approach to equilibria and rationality](https://arxiv.org/abs/0905.3548) - by Dusko Pavlovic
-  * [Compositional game theory](https://arxiv.org/abs/1603.04641) - by Jules Hedges, Neil Ghani, Viktor Winschel and Philipp Zahn
-  * [The game semantics of game theory](https://arxiv.org/abs/1904.11287) - by Jules Hedges
+  * [A semantical approach to equilibria and rationality](https://arxiv.org/abs/0905.3548) - This paper connects game theoretic equilibria and rationality to computation, suggesting that viewing processes as computational instances can offer new algebraic and coalgebraic methods to understand equilibrium and rational behaviors by Dusko Pavlovic (2009)
+  * [Compositional game theory](https://arxiv.org/abs/1603.04641) - Open games offer a new foundation for economic game theory, enabling larger models through a compositional approach that uses "coutility" to represent games in relation to their environment, and can be visually represented with intuitive string diagrams, capturing key game theory outcomes by Jules Hedges, Neil Ghani, Viktor Winschel and Philipp Zahn (2016)
+  * [The game semantics of game theory](https://arxiv.org/abs/1904.11287) - We reinterpret compositional game theory, aligning game theory with game semantics by viewing open games as Systems and their contexts as Environments; using lenses from functional programming, we then construct a category of 'computable open games' based on a specific interaction geometry by Jules Hedges (2019)
 #### Graph Neural Networks
-  * [Asynchronous Algorithmic Alignment with Cocycles](https://arxiv.org/abs/2306.15632)
-  * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://arxiv.org/abs/2212.00542)
-  * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
-  * [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541)
-  * [Local Permutation Equivariance For Graph Neural Networks](https://arxiv.org/abs/2111.11840)
-  * [Natural Graph Networks](https://arxiv.org/abs/2007.08349)
-  * [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579)
-  * [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097)
-  * [Sheaf Neural Networks with Connection Laplacians](https://arxiv.org/abs/2206.08702)
+  * [Asynchronous Algorithmic Alignment with Cocycles](https://arxiv.org/abs/2306.15632) - Current neural algorithmic reasoners use graph neural networks (GNNs) that often send unnecessary messages between nodes; in our work, we separate node updates from message sending, enabling more efficient and asynchronous computation in algorithms and neural networks (2023)
+  * [Graph Convolutional Neural Networks as Parametric CoKleisli morphisms](https://arxiv.org/abs/2212.00542) - We categorically define Graph Convolutional Neural Networks (GCNNs) for any graph and connect it to existing deep learning constructs, allowing the GCNN's adjacency matrix to be treated globally, shedding light on its inherent biases, and discussing potential generalizations and connections to other learning concepts by Bruno Gavranović, Mattia Villani (2022)
+  * [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544) - Using category theory and abstract algebra, we dive deeper into the presumed alignment between graph neural networks (GNNs) and dynamic programming, uncovering a profound connection, validating previous studies, and presenting improved GNN designs for specific tasks, hoping to bolster future algorithm-aligned GNN advancements by Andrew Dudzik, Petar Veličković (2022)
+  * [Learnable Commutative Monoids for Graph Neural Networks](https://arxiv.org/abs/2212.08541) - Using the concept of commutative monoids, we introduce an efficient O(logV) depth aggregator for GNNs, offering a balance between speed and expressiveness by Euan Ong, Petar Veličković (2022)
+  * [Local Permutation Equivariance For Graph Neural Networks](https://arxiv.org/abs/2111.11840) - Our Sub-graph Permutation Equivariant Networks (SPEN) method improves graph neural networks' scalability and expressiveness by focusing on unique sub-graphs, proving competitive on benchmarks and saving GPU memory by Joshua Mitton, Roderick Murray-Smith (2021)
+  * [Natural Graph Networks](https://arxiv.org/abs/2007.08349) - We introduce the concept of naturality in graph neural networks, offering a broader and efficient design alternative to traditional equivariance, with our design showing strong benchmark performance by Pim de Haan, Taco Cohen, Max Welling (2020)
+  * [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579) - Using cellular sheaf theory, we connect graph geometry to Graph Neural Network performance, leading to improved diffusion models that bridge algebraic topology and GNN studies (2022)
+  * [Sheaf Neural Networks for Graph-based Recommender Systems](https://arxiv.org/abs/2304.09097) - Using Sheaf Neural Networks, we enrich recommendation systems by representing nodes with vector spaces, leading to significant performance improvements in collaborative filtering and link prediction across multiple datasets (2023)
+  * [Sheaf Neural Networks with Connection Laplacians](https://arxiv.org/abs/2206.08702) - Using Riemannian geometry, we refine Sheaf Neural Network design, optimally aligning data points and reducing computational overhead, offering a bridge between algebraic topology and differential geometry for enhanced performance (2022)
   * [Sheaf Neural Networks](https://arxiv.org/abs/2012.06333)
-  * [Topologically Attributed Graphs for Shape Discrimination](https://arxiv.org/abs/2306.17805)
+  * [Topologically Attributed Graphs for Shape Discrimination](https://arxiv.org/abs/2306.17805) - We've developed attributed graphs that combine Mapper graph approximations with stable homology, enhancing shape representation and boosting classification results in graph neural networks (2023)
 #### Linguistics
-  * [Free compact 2-categories](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00137681v2/document) - by Joachim Lambek and Anne Preller
-  * [Mathematical foundations for a compositional distributional model of meaning](https://arxiv.org/abs/1003.4394) - by Bob Coecke, Mehrnoosh Sadrzadeh and Stephen Clark
-  * [The Frobenius anatomy of word meanings I: subject and object relative pronouns](https://arxiv.org/abs/1404.5278) - by Mehrnoosh Sadrzadeh, Stephen Clark and Bob Coecke
+  * [Free compact 2-categories](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00137681v2/document) - The paper introduces the notion of a compact 2-category, and gives some examples, such as the 2-category of monoidal categories, the 2-category of bimodules over a ring, and the 2-category of finite-dimensional vector spaces by Joachim Lambek and Anne Preller (2007)
+  * [Mathematical foundations for a compositional distributional model of meaning](https://arxiv.org/abs/1003.4394) - Using vector spaces and Lambek's Pregroup algebra, we derive sentence meanings from words, enabling comparisons. Our model visually represents sentence construction and can adapt to Boolean semantics by Bob Coecke, Mehrnoosh Sadrzadeh and Stephen Clark (2010)
+  * [The Frobenius anatomy of word meanings I: subject and object relative pronouns](https://arxiv.org/abs/1404.5278) - We use vectors and Frobenius algebras in a categorical approach to understand the semantics of relative pronouns. Two models are introduced: a truth-based and a corpus-based approach by Mehrnoosh Sadrzadeh, Stephen Clark and Bob Coecke (2014)
 #### Manufacturing
-  * [String diagrams for assembly planning](https://arxiv.org/abs/1909.10475) - by Jade Master, Evan Patterson, Shahin Yousfi, Arquimedes Canedo
+  * [String diagrams for assembly planning](https://arxiv.org/abs/1909.10475) - This paper introduces CompositionalPlanning, a tool that uses string diagrams to unify CAD designs with planning algorithms, optimizing assembly plans which are then tested in simulations, showcasing its efficiency in the LEGO assembly context by Jade Master, Evan Patterson, Shahin Yousfi, Arquimedes Canedo (2019)
 #### Metric Space Magnitude
-  * [Approximating the convex hull via metric space magnitude](https://arxiv.org/abs/1908.02692)
-  * [Magnitude of arithmetic scalar and matrix categories](https://arxiv.org/abs/2304.08334)
-  * [Practical applications of metric space magnitude and weighting vectors](https://arxiv.org/abs/2006.14063)
-  * [The magnitude vector of images](https://arxiv.org/abs/2110.15188)
-  * [Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection](https://arxiv.org/abs/2106.00827)
+  * [Approximating the convex hull via metric space magnitude](https://arxiv.org/abs/1908.02692) - This paper introduces CompositionalPlanning, a tool that uses string diagrams to unify CAD designs with planning algorithms, optimizing assembly plans which are then tested in simulations, showcasing its efficiency in the LEGO assembly context by Glenn Fung, Eric Bunch, Dan Dickinson (2019)
+  * [Magnitude of arithmetic scalar and matrix categories](https://arxiv.org/abs/2304.08334) - We create tools that build categories from data and operate using scalar and matrix math, identifying features similar to outliers in various systems like computer programs and neural networks by Steve Huntsman (2023)
+  * [Practical applications of metric space magnitude and weighting vectors](h2020ttps://arxiv.org/abs/2006.14063) - The magnitude of a metric space quantifies distinct points and its weighting vector, especially in Euclidean spaces, offers new algorithms for machine learning, proven through benchmark experiments (2020)
+  * [The magnitude vector of images](https://arxiv.org/abs/2110.15188) - We explore the metric space magnitude in images, revealing edge detection abilities, and introduce an efficient model that broadens its use in machine learning (2021)
+  * [Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection](https://arxiv.org/abs/2106.00827) - Using the metric space magnitude's weighting vector, we enhance outlier detection in Euclidean spaces and link it to efficient nearest neighbor SVM techniques (2021)
 #### Petri Nets
-  * [Generalized Petri Nets](https://arxiv.org/abs/1904.09091) - by Jade Master
-  * [The Mathematical Specification of the Statebox Language](https://arxiv.org/abs/1906.07629) - by Fabrizio Genovese and Jelle Herold
+  * [Generalized Petri Nets](https://arxiv.org/abs/1904.09091) - We present Q-net, an extension of Petri nets using Lawvere theory Q, and offer a functorial approach to delineate their operational semantics across multiple net systems by Jade Master (2019)
+  * [The Mathematical Specification of the Statebox Language](https://arxiv.org/abs/1906.07629) - The Statebox language is built on a solid mathematical foundation, synergizing theoretical structures for reliability; this document shares that foundation to aid understanding and auditing by Fabrizio Genovese, Jelle Herold (2019)
 #### Probability and Statistics
-  * [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547)
-  * [A Probabilistic Dependent Type System based on Non-Deterministic Beta Reduction](https://arxiv.org/abs/1602.06420)
-  * [A Probability Monad as the Colimit of Spaces of Finite Samples](https://arxiv.org/abs/1712.05363)
-  * [A categorical approach to probability theory](https://www.chrisstucchio.com/blog_media/2016/probability_the_monad/categorical_probability_giry.pdf) - by Michèle Giry
-  * [A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021) - by Tobias Fritz
-  * [Bimonoidal Structure of Probability Monads](https://arxiv.org/abs/1804.03527)
-  * [Categorical Probability Theory](https://arxiv.org/abs/1406.6030)
-  * [Causal inference by string diagram surgery](https://arxiv.org/abs/1811.08338) - by Bart Jacobs, Aleks Kissinger and Fabio Zanasi
-  * [Compositional Semantics for Probabilistic Programs with Exact Conditioning](https://arxiv.org/abs/2101.11351)
-  * [Computable Stochastic Processes](https://arxiv.org/abs/1409.4667)
-  * [De Finneti's construction as a categorical limit](https://arxiv.org/abs/2003.01964)
-  * [Infinite products and zero-one laws in categorical probability](https://arxiv.org/abs/1912.02769)
-  * [Information structures and their cohomology](https://arxiv.org/abs/1709.07807)
-  * [Markov Categories and Entropy](https://arxiv.org/abs/2212.11719)
-  * [Markov categories](https://arxiv.org/abs/1908.07021)
-  * [Probability, valuations, hyperspace: Three monads on Top and the support as a morphism](https://arxiv.org/abs/1910.03752)
-  * [Representable Markov Categories and Comparison of Statistical Experiments in Categorical Probability](https://arxiv.org/abs/2010.07416)
+  * [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/abs/1701.02547) - Quasi-Borel spaces improve higher-order probabilistic programming by supporting advanced functions and continuous distributions, offering better proof principles and refining core probability theory constructs (2017)
+  * [A Probabilistic Dependent Type System based on Non-Deterministic Beta Reduction](https://arxiv.org/abs/1602.06420) - Introducing the Probabilistic Dependent Type Systems (PDTS) in a functional language, we provide sampling-based semantics and derive a universal probabilistic logic for finite discrete distributions (2016)
+  * [A Probability Monad as the Colimit of Spaces of Finite Samples](https://arxiv.org/abs/1712.05363) - We introduce a probability monad for metric spaces, simplifying integration theory, and linking it to the category of convex subsets in Banach spaces by Tobias Fritz, Paolo Perrone (2017)
+  * [A categorical approach to probability theory](https://www.chrisstucchio.com/blog_media/2016/probability_the_monad/categorical_probability_giry.pdf) - The paper introduces the Giry monad as a categorical tool for defining and studying random processes and related concepts by Michèle Giry (2016)
+  * [A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021) - The paper uses Markov categories to study probability and statistics in a general and abstract way, covering many topics and examples from different kinds of probability theory by Tobias Fritz (2019)
+  * [Bimonoidal Structure of Probability Monads](https://arxiv.org/abs/1804.03527) - We examine joints, marginals, and independence in categorical probability using mathematical structures, exemplified by the Kantorovich monad by Tobias Fritz, Paolo Perrone (2018)
+  * [Categorical Probability Theory](https://arxiv.org/abs/1406.6030) - We reinterpret probability measures categorically, linking them to specific mathematical structures and demonstrating their connection to the Giry monad, with a theorem on the integral operator provided by Kirk Sturtz (2014)
+  * [Causal inference by string diagram surgery](https://arxiv.org/abs/1811.08338) - We use a categorical approach with string diagrams to understand causality, showcasing a method to compute interventions, exemplified by analyzing smoking's effect on cancer by Bart Jacobs, Aleks Kissinger and Fabio Zanasi (2018)
+  * [Compositional Semantics for Probabilistic Programs with Exact Conditioning](https://arxiv.org/abs/2101.11351) - We design a language for Gaussian variables with advanced conditioning, tackle Borel's paradox, and use categorical concepts to generalize its semantics by Dario Stein, Sam Staton (2021)
+  * [Computable Stochastic Processes](https://arxiv.org/abs/1409.4667) - We present a computable theory of probability, applying it to discrete-time systems and the Wiener process, grounded in Turing computation for clarity by Pieter Collins (2014)
+  * [De Finneti's construction as a categorical limit](https://arxiv.org/abs/2003.01964) - We recast de Finetti's 1930s probability theorem using modern categorical language, linking it to the Giry monad's Kleisli category and identifying the final exchangeable coalgebra by Bart Jacobs, Sam Staton (2020)
+  * [Infinite products and zero-one laws in categorical probability](https://arxiv.org/abs/1912.02769) - We enhance Markov categories' approach to probability, exploring infinite products and introducing generalized zero-one laws of Kolmogorov and Hewitt-Savage, applicable beyond traditional probability settings by Tobias Fritz, Eigil Fjeldgren Rischel (2019)
+  * [Information structures and their cohomology](https://arxiv.org/abs/1709.07807) - We define information structures to model contextuality in classical and quantum domains, linking them to observables, and delve into information cohomology, emphasizing the role of specific entropies by Juan Pablo Vigneaux (2017)
+  * [Markov Categories and Entropy](https://arxiv.org/abs/2212.11719) - We merge Markov categories with classic information theory, offering a fresh view on determinism, entropy, and encompassing various entropy indices by Paolo Perrone (2022)
+  * [Markov categories](https://arxiv.org/abs/1908.07021) - We use Markov categories for a unified categorical view on key probability concepts, enabling a consistent approach across various probability theories, from discrete to Gaussian by Tobias Fritz (2019)
+  * [Probability, valuations, hyperspace: Three monads on Top and the support as a morphism](https://arxiv.org/abs/1910.03752) - We study three monads related to topological aspects of probability, unify two using double dualization, and show the tau-smooth probability measures' connection within this framework by Tobias Fritz, Paolo Perrone, Sharwin Rezagholi (2019)
+  * [Representable Markov Categories and Comparison of Statistical Experiments in Categorical Probability](https://arxiv.org/abs/2010.07416) - We expand on Markov categories in probability, addressing stochastic dominance and presenting a generalized Blackwell-Sherman-Stein Theorem. We also explore their relation with Kleisli categories of probability monads (2020)
 #### Set Theory
-  * [Set theory for category theory](https://arxiv.org/pdf/0810.1279.pdf)
+  * [Set theory for category theory](https://arxiv.org/abs/0810.1279) - This paper compares set-theoretic foundations for category theory, exploring their implications for standard categorical usage, tailored for those with minimal logic or set theory background by Michael A. Shulman (2008)
 #### Topological Data Analysis
-  * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443)
-  * [Persistent-Homology-based Machine Learning and its Applications - A Survey](https://arxiv.org/abs/1811.00252)
-  * [Topological Expressiveness of Neural Networks](https://run.unl.pt/bitstream/10362/129615/1/TAA0115.pdf)
+  * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443) - This paper uses algebraic topology to determine how data complexity impacts neural network architecture choices by William H. Guss, Ruslan Salakhutdinov (2018)
+  * [Persistent-Homology-based Machine Learning and its Applications - A Survey](https://arxiv.org/abs/1811.00252) - This paper reviews the integration of persistent homology in machine learning and its application in protein structure classification by Chi Seng Pun, Kelin Xia, Si Xian Lee (2018)
+  * [Topological Expressiveness of Neural Networks](https://run.unl.pt/bitstream/10362/129615/1/TAA0115.pdf) - This paper introduces a topological measure of a neural network's expressive power, analyzing how it varies with architecture properties like depth and width by António Leitão (2020)
+
 
 ## Blogs
 
-* [Category Theory | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/category/category-theory/)
-* [The Comonad.Reader by Edward Kmett](http://comonad.com/reader/)
-* [What is category theory, anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway) - by Tai-Danae Bradley
-* [On compositionality](https://julesh.com/2017/04/22/on-compositionality/) - by Jules Hedges
-* [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/) - by Mark Seemann
-* [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
+* [Category Theory | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/category/category-theory/) - Personal blog of Bartosz Milewski, author of the book "Category for Programmers"
+* [The Comonad.Reader by Edward Kmett](http://comonad.com/reader/) - Personal blog of Edward Kmett, author of many high profile Haskell libraries like lens
+* [What is category theory, anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway) - Personal blog of Tai-Danae Bradley a research mathematician, explains concepts related to Category Theory and many other fields of math with illustrations in an accessible way
+* [On compositionality](https://julesh.com/2017/04/22/on-compositionality/) - Personal blog of Jules Hedges a mathematics and computer science researcher affiliated
+* [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/) - ploeh blog by Mark Seeman is his professional blog, where he writes about programming, software development, and architecture
+* [The n-Category Cafe](https://golem.ph.utexas.edu/category/) - A group blog on math, physics and philosophy
 
 ## Books
 
@@ -145,13 +146,13 @@ new model management approach based on algebraic specification by Patrick Schult
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - This book introduces Category Theory at a level appropriate for computer scientists and provides practical examples (in Haskell) in the context of programming languages by Bartosz Milewski (2019)
 * [Category Theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) - An introduction to category theory as a rigorous, flexible, and coherent modeling language that can be used across the sciences by David I. Spivak (2014)
 * [Conceptual Mathematics: A First Introduction to Categories](https://s3.amazonaws.com/arena-attachments/325201/2ff932bf546d8985eb613fccf02b69c7.pdf) - This book demonstrates the power of 'category' to make mathematics easier and more connected for anyone. It begins with basic definitions and creates simple categories, such as discrete dynamical systems and directed graphs, with examples, by Schanuel, Lawvere (2009)
-* [Draft of "Categorical Systems Theory"](http://davidjaz.com/Papers/DynamicalBook.pdf) - by Jaz Myers
-* [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf) - by Spivak, Niu
+* [Draft of "Categorical Systems Theory"](http://davidjaz.com/Papers/DynamicalBook.pdf) - This draft book is about categorical systems theory, the study of the design and analysis of systems using category theory by Jaz Myers (2022)
+* [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf) - This book offers an interdisciplinary approach to the categorical study of general interaction, aiming to bridge diverse fields under a unified language to understand interactive systems; it provides detailed explanations and resources for learning, but assumes a foundational knowledge of category theory and graph-theoretic trees by Spivak, Niu (2023)
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - This book by David I. Spivak and Brendan Fong (2019) provides an introductory glimpse into Category Theory by covering 7 key topics. It highlights practical, real-world examples to give readers a feel for the abstract theoretical concepts
 * [The Joy of Abstraction](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) - The book by Eugenia Cheng (2022) is written in a clear and engaging style. Cheng is a gifted writer who is able to make complex mathematical concepts accessible to a general audience
 * [Basic Category Theory](https://arxiv.org/abs/1612.09375) - Tom Leinster's (2014) book represents an edited version of his lecture notes. As such, it is a concise work that provides focused coverage of the Category Theory topics it addresses
 * [Category Theory in Context](https://math.jhu.edu/~eriehl/context.pdf) - This text book by Emily Riehl (2016) is advanced and is suitable for diligent students who have mastered prior readings. It's praised for its well-crafted prose on Category Theory. Initially, it adopts an example-based methodology before illustrating how category theoretical language can encapsulate the concepts
-* [Categories for Quantum Theory: An Introduction](https://www.amazon.com/Categories-Quantum-Theory-Introduction-Mathematics/dp/0198739621?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=saxxie-20&linkId=970d027b9ed176eadeca7e50c0a9c07f&language=en_US&ref_=as_li_ss_tl)
+* [Categories for Quantum Theory: An Introduction](https://www.amazon.com/Categories-Quantum-Theory-Introduction-Mathematics/dp/0198739621?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=saxxie-20&linkId=970d027b9ed176eadeca7e50c0a9c07f&language=en_US&ref_=as_li_ss_tl) - Monoidal category theory provides an abstract language to describe quantum theory, emphasizing intuitive graphical calculus, and explores structures modeling quantum phenomena, classical information, and probabilistic systems, with connections to other disciplines highlighted throughout by Chris Heunen, Jamie Vicary (2020)
 * [From Categories to Homotopy Theory](https://www.math.uni-hamburg.de/home/richter/bookdraft.pdf) - by Birgit Richter (2020), gets advanced, but Part I ‘Category Theory’ is pretty accessible
 * [An Introduction to Category Theory](https://www.amazon.com/Introduction-Category-Theory-Harold-Simmons/dp/0521283043) - This book offers a beginner-friendly introduction to category theory, a versatile conceptual framework used across various disciplines, detailing fundamental concepts, examples, and over 200 exercises, making it ideal for self-study or as a course text, by Harold Simmons (2011)
 
@@ -201,8 +202,8 @@ new model management approach based on algebraic specification by Patrick Schult
 
 * [Corecursive: Category Theory With Bartosz Milewski](https://corecursive.com/035-bartosz-milewski-category-theory/) - Adam talks to Bartosz Milewski, the author of a popular blog series, lecture series, and now book on Category Theory for programmers
 * [Sean Carroll's Mindscape: Emily Riehl on Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/) - Emily Riehl discusses how mathematical concepts, like topology and category theory, enrich our understanding of the universe and its possibilities
-* [Category Theory for Normal Humans with Dr. Eugenia Cheng](https://www.greaterthancode.com/category-theory-for-normal-humans)
-* [Eric Daimler on Conexus and Category](https://soundcloud.com/max-sklar-637976507/ep-243-eric-daimler-on-conexus-and-category-theory)
+* [Category Theory for Normal Humans with Dr. Eugenia Cheng](https://www.greaterthancode.com/category-theory-for-normal-humans) - A podcast with Dr. Eugenia Cheng on Category Theory and her mathematical background (2017)
+* [Eric Daimler on Conexus and Category](https://soundcloud.com/max-sklar-637976507/ep-243-eric-daimler-on-conexus-and-category-theory) - Todays guest is CEO and co-founder of Conexus, the first spinoff of the MIT math department that takes discoveries in high level mathematics (category theory) and applies them to make databases intelligent across many industries (2022)
 
 ## Related
 
