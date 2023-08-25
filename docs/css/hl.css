@@ -366,6 +366,12 @@ img {
     height: auto;
 }
 
+.responsive-banner {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
 .img-rounded {
     border-radius: 6px
 }

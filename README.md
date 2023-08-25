@@ -138,7 +138,8 @@ new model management approach based on algebraic specification by Patrick Schult
 * [On compositionality](https://julesh.com/2017/04/22/on-compositionality/) - Personal blog of Jules Hedges a mathematics and computer science researcher affiliated
 * [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/) - ploeh blog by Mark Seeman is his professional blog, where he writes about programming, software development, and architecture
 * [The n-Category Cafe](https://golem.ph.utexas.edu/category/) - A group blog on math, physics and philosophy
-
+* [Elementary Introduction to Category Theory](https://elincath.blogspot.com/) - Elementary Introduction to Category Theory
+* [The Topos Lab](https://topos.site/tags/category-theory/) - The Topos Institute works to shape technology for public benefit by advancing sciences of connection and integration. Current research personnel includes Brendan Fong, John Baez and David Spivak
 ## Books
 
 * [Category Theory](https://amzn.to/2HAe42N) - This book offers an in-depth yet accessible introduction to category theory, targeting a diverse audience and covering essential concepts; the second edition includes expanded content, new sections, and additional exercises by Steve Awodey (2010)
@@ -250,6 +251,7 @@ new model management approach based on algebraic specification by Patrick Schult
 * [Lecture Videos and Readings](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/pages/lecture-videos-and-readings/) - B. Fong and D. Spivak: elementary lectures on applied category theory
 * [OPLSS 2016 - Category Theory Background](https://www.youtube.com/playlist?list=PLiHLLF-foEexKDi7tmiO5tP8Uxt0ueK-L) - Ed Morehouse: four basic level lectures to accompany his 2016 notes listed above
 * [Category Theory Foundations, Oregon Programming Languages Summer School 2012](https://www.youtube.com/watch?v=ZKmodCApZwk) - Material will be presented at a tutorial level that will help graduate students and researchers understand the critical issues and open problems confronting the field. By Steve Awodey (2012)
+* [Category Theory Lecture 1 (NGA CoE-MaSS) - 2022](https://www.zurab.online/2022/08/category-theory-course-2022.html) - This is a video-based course aimed at post-graduate students and as well academics interested to learn about category theory, with live participation of the audience shaping the content of the course. (2022)
 
 ## Wiki
 * [ncatlab](https://ncatlab.org) - A wiki with content varying from pure category theory, to categorical perspectives on other areas of maths, to random unrelated bits of maths
