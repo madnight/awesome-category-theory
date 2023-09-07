@@ -237,6 +237,7 @@ new model management approach based on algebraic specification by Patrick Schult
 * [Cartographer.id](http://cartographer.id/) - Tool for string diagrammatic reasoning
 * [Homotopy.io](https://homotopy.io/) - Web-based proof assistant for finitely-presented globular n-categories
 * [KdMonCat](https://edit.statebox.cloud/) - Tool for drawing morphisms in monoidal categories
+* [XyJax](https://sonoisa.github.io/xyjax-v3/xyjax-v3.html) - Xy-pic extension for MathJax, that lets you draw commutative diagrams in browser
 
 ## Video Lectures
 
