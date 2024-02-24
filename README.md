@@ -4,6 +4,7 @@ A curated list of awesome Category Theory resources.
 ## Table of contents
 
 - [Awesome Category Theory](#awesome-category-theory)
+    - [Archive](#archive)
     - [Articles](#articles)
     - [Blogs](#blogs)
     - [Books](#books)
@@ -22,7 +23,9 @@ A curated list of awesome Category Theory resources.
 
 ## Archive
 
-  * [Functor theory](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1960_freyd_functor-theory.pdf) - Explores the concept of exact categories and the theory of derived functors, building upon earlier work by Buchsbaum. Freyd investigates how properties and statements applicable to abelian groups can extend to arbitrary exact categories. He aims to formalize this observation into a metatheorem, which would simplify categorical proofs and predict lemmas. Peter J. Freyd's dissertation, presented at Princeton University (1960)
+  * [Functor theory](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1960_freyd_functor-theory.pdf) - Explores the concept of exact categories and the theory of derived functors, building upon earlier work by Buchsbaum. Freyd investigates how properties and statements applicable to abelian groups can extend to arbitrary exact categories. Freyd aims to formalize this observation into a metatheorem, which would simplify categorical proofs and predict lemmas. Peter J. Freyd's dissertation, presented at Princeton University (1960)
+
+  * [Algebra valued functors in general and tensor products in particular](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1966_freyd_algebra-valued.pdf) - Discusses the concept of valued functors in category theory, particularly focusing on tensor products. Freyd explores the application of algebraic theories in non-standard categories, starting with the question of what constitutes an algebra in the category of sets, using category predicates without elements. The text outlines the axioms of a group using category theory language, emphasizing objects and maps. Peter Freyd (1966)
 
 ## Articles
 
