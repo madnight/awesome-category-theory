@@ -29,6 +29,12 @@ A curated list of awesome Category Theory resources.
 
   * [Continuous Yoneda Representation of a small category](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1966_kock_continuous-yoneda.pdf) -  Discusses the embedding of a small category A into the category of contravariant functors from A to Set (the category of sets), which preserves inverse limits but does not generally preserve direct limits. Kock introduces a "codensity monad" for any functor from a small category to a left complete category and explores the universal generator for this monad. He demonstrates that the Yoneda embedding followed by this generator provides a full and faithful embedding that is both left and right continuous. Additionally, the relationship with Isbell's adjoint conjugation functors and the definition of generalized (direct and inverse) limit functors are addressed, by Anders Kock (1966).
 
+  * [Abstract universal algebra](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_davis_abstract-universal.pdf) - Explores advanced subjects in the realm of universal algebra. The core content is organized into two chapters, each addressing different aspects of universal algebra within the framework of category theory. The first chapter introduces the concept of triplable categories, inspired by the theory of modules over a ring, and explores the equivalence between categories of triples in any given category and theories over that category. In the second chapter, Davis shifts focus to equational systems of functors, a more generalized approach to algebra that encompasses both the triplable and structure category theories. Dissertation by Robert Clay Davis (1967)
+
+
+  * [A triple miscellany: some aspects of the theory of algebras over a triple](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_manes_triple-miscellany.pdf)
+
+
 ## Articles
 
 #### Bayesian/Causal inference
