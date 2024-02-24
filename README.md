@@ -20,6 +20,10 @@ A curated list of awesome Category Theory resources.
     - [Video Lectures](#video-lectures)
     - [Wiki](#wiki)
 
+## Archive
+
+  * [Functor theory](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1960_freyd_functor-theory.pdf) - Explores the concept of exact categories and the theory of derived functors, building upon earlier work by Buchsbaum. Freyd investigates how properties and statements applicable to abelian groups can extend to arbitrary exact categories. He aims to formalize this observation into a metatheorem, which would simplify categorical proofs and predict lemmas. Peter J. Freyd's dissertation, presented at Princeton University (1960)
+
 ## Articles
 
 #### Bayesian/Causal inference
