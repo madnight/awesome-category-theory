@@ -27,6 +27,8 @@ A curated list of awesome Category Theory resources.
 
   * [Algebra valued functors in general and tensor products in particular](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1966_freyd_algebra-valued.pdf) - Discusses the concept of valued functors in category theory, particularly focusing on tensor products. Freyd explores the application of algebraic theories in non-standard categories, starting with the question of what constitutes an algebra in the category of sets, using category predicates without elements. The text outlines the axioms of a group using category theory language, emphasizing objects and maps. Peter Freyd (1966)
 
+  * [Continuous Yoneda Representation of a small category](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1966_kock_continuous-yoneda.pdf) -  Discusses the embedding of a small category A into the category of contravariant functors from A to Set (the category of sets), which preserves inverse limits but does not generally preserve direct limits. Kock introduces a "codensity monad" for any functor from a small category to a left complete category and explores the universal generator for this monad. He demonstrates that the Yoneda embedding followed by this generator provides a full and faithful embedding that is both left and right continuous. Additionally, the relationship with Isbell's adjoint conjugation functors and the definition of generalized (direct and inverse) limit functors are addressed, by Anders Kock (1966).
+
 ## Articles
 
 #### Bayesian/Causal inference
