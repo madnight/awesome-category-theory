@@ -33,6 +33,8 @@ A curated list of awesome Category Theory resources.
 
   * [A triple miscellany: some aspects of the theory of algebras over a triple](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_manes_triple-miscellany.pdf) - Explores the field of universal algebra with a particular focus on the concept of algebras over a triple. The work is grounded in the realization that categories of algebras, traditionally defined with finitary operations and satisfying a set of equations, can be extended to include infinitary operations as well, thereby broadening the scope of universal algebra. Manes starts by discussing the conventional understanding of universal algebra, tracing back to G.D. Birkhoff's definition in the 1930s, and then moves to explore how this definition can be expanded by considering sets with infinitary operations. Dissertation by Ernest Gene Manes (1967)
 
+  * [Limit Monads in Categories](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_kock_limit-monads.pdf) - The work introduces the notion that the category of complete categories is monadic over the category of all categories, utilizing a family of monads associated with various index categories to define "completeness." A significant portion of the thesis is dedicated to defining associative and regular associative colimits, arguing for their naturalness and importance in category theory. Dissertation by Anders Jungersen Kock (1967)
+
 ## Articles
 
 #### Bayesian/Causal inference
