@@ -31,9 +31,7 @@ A curated list of awesome Category Theory resources.
 
   * [Abstract universal algebra](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_davis_abstract-universal.pdf) - Explores advanced subjects in the realm of universal algebra. The core content is organized into two chapters, each addressing different aspects of universal algebra within the framework of category theory. The first chapter introduces the concept of triplable categories, inspired by the theory of modules over a ring, and explores the equivalence between categories of triples in any given category and theories over that category. In the second chapter, Davis shifts focus to equational systems of functors, a more generalized approach to algebra that encompasses both the triplable and structure category theories. Dissertation by Robert Clay Davis (1967)
 
-
-  * [A triple miscellany: some aspects of the theory of algebras over a triple](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_manes_triple-miscellany.pdf)
-
+  * [A triple miscellany: some aspects of the theory of algebras over a triple](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_manes_triple-miscellany.pdf) - Explores the field of universal algebra with a particular focus on the concept of algebras over a triple. The work is grounded in the realization that categories of algebras, traditionally defined with finitary operations and satisfying a set of equations, can be extended to include infinitary operations as well, thereby broadening the scope of universal algebra. Manes starts by discussing the conventional understanding of universal algebra, tracing back to G.D. Birkhoff's definition in the 1930s, and then moves to explore how this definition can be expanded by considering sets with infinitary operations. Dissertation by Ernest Gene Manes (1967)
 
 ## Articles
 
