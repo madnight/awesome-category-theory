@@ -41,7 +41,8 @@ A curated list of awesome Category Theory resources.
 
   * [Symmetric closed categories](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_schipper_symmetric-closed.pdf) - This work is an in-depth exploration of category theory, focusing on closed categories, monoidal categories, and their symmetric counterparts. It discusses foundational concepts like natural transformations, tensor products, and the structure of morphisms, emphasizing their additional algebraic or topological structures. W. J. de Schipper (1975)
 
-  * [Algebraic theories](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_wraith_algebraic-theories.pdf) -
+  * [Algebraic theories](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1975_wraith_algebraic-theories.pdf) - Covers topics such as the fundamentals of algebraic theories, free models, special theories, the completeness of algebraic categories, and extends to more complex concepts like commutative theories, free theories, and the Kronecker product, among others. The notes also touch on the rings-theories analogy proposed by F. W. Lawvere, suggesting an insightful correlation between rings/modules and algebraic theories/models. Gavin C. Wraith (1975)
+
 
 ## Articles
 
