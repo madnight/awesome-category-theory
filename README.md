@@ -35,6 +35,7 @@ A curated list of awesome Category Theory resources.
 
   * [Limit Monads in Categories](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1967_kock_limit-monads.pdf) - The work introduces the notion that the category of complete categories is monadic over the category of all categories, utilizing a family of monads associated with various index categories to define "completeness." A significant portion of the thesis is dedicated to defining associative and regular associative colimits, arguing for their naturalness and importance in category theory. Dissertation by Anders Jungersen Kock (1967)
 
+  * [On the concreteness of certain categories](https://github.com/CategoryTheoryArchive/archive/blob/main/resources/1969_freyd_concreteness-certain.pdf) - This work discusses the concept of concreteness in categories, stating that a concrete category is one with a faithful functor to the category of sets, and must be locally-small. He highlights the homotopy category of spaces as a prime example of a non-concrete category, emphasizing its abstract nature due to the irrelevance of individual points within spaces and the inability to distinguish non-homotopic maps through any functor into concrete categories. Peter Freyd (1969)
 ## Articles
 
 #### Bayesian/Causal inference
